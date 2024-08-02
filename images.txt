@@ -1,2 +1,1 @@
-luoyuu77/baota  
-----platform=linux/arm64 
+homeassistant/aarch64-homeassistant
