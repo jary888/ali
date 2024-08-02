@@ -1,1 +1,2 @@
 luoyuu77/baota  
+----platform=linux/arm64 
