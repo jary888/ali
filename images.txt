@@ -1,1 +1,2 @@
-homeassistant/aarch64-homeassistant
+btpanel/baota:lnmp
+--platform=linux/arm64
