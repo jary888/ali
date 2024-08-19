@@ -1,1 +1,1 @@
-zhonghaibin/aarch64-baota
+sulinggg/openwrt:armv8
