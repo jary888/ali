@@ -1,1 +1,1 @@
-moritzf/virtualhere:armv8
+moritzf/virtualhere
