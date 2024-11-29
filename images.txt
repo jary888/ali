@@ -1,1 +1,1 @@
-openwisp/controller-development
+python:3.9-slim-buster
