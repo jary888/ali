@@ -1,1 +1,1 @@
-moritzf/virtualhere
+openwisp/controller-development:latest
