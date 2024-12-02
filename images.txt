@@ -1,1 +1,1 @@
-gravitl/netmaker-ui
+gravitl/netmaker
