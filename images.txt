@@ -1,1 +1,1 @@
-coredns/coredns
+gravitl/netmaker-ui
