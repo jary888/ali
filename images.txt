@@ -1,1 +1,1 @@
-gravitl/netmaker
+ caddy:2.8.4
