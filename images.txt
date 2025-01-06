@@ -1,1 +1,1 @@
-zamoramerida/radiusdesk-mariadb
+zamoramerida/docker-radiusdesk
