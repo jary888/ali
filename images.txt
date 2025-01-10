@@ -1,1 +1,3 @@
-zamoramerida/docker-radiusdesk
+ruoyi/ruoyi-mysql:5.7
+ruoyi/ruoyi-nginx:1.22.1
+ruoyi/ruoyi-radius-server:1.0
