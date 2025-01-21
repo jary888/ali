@@ -1,3 +1,2 @@
-ruoyi/ruoyi-mysql
-ruoyi/ruoyi-nginx
-ruoyi/ruoyi-radius-server
+headscale/headscale
+goodieshq/headscale-admin
