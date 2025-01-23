@@ -1,1 +1,1 @@
-headscale-ui
+ghcr.io/gurucomputing/headscale-ui
