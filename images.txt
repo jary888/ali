@@ -1,1 +1,1 @@
-lmq8267/easytier
+easytier/easytier
