@@ -1,1 +1,3 @@
-lmq8267/easytier
+headscale/headscale
+ghcr.io/gurucomputing/headscale-ui
+nginx:alpine
