@@ -1,1 +1,1 @@
-arm32v7/alpine
+alpine:3.18
