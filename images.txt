@@ -1,1 +1,1 @@
-alpine:3.18
+riscv64/postgres:13-alpine3.21
