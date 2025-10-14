@@ -1,1 +1,1 @@
---platform=linux/risc64 riscv64/postgres
+--platform=linux/riscv64 postgres
