@@ -1,1 +1,1 @@
---platform=linux/riscv64 postgres
+agrozyme/node
