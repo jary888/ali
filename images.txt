@@ -1,2 +1,1 @@
-dec0dos/zero-ui
---platform=linux/arm64
+dec0dos/zero-ui:linux/arm64
