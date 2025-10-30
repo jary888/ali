@@ -1,1 +1,2 @@
-agrozyme/node
+dec0dos/zero-ui
+--platform=linux/arm64
